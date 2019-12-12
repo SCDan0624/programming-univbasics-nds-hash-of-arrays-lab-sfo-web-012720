@@ -16,6 +16,4 @@ def add_character(show, name)
 end
 
 
-=begin
- add_character(:chipmunks, "Dave") to return :chipmunks => ["Alvin", "Simon", "Theodore", "Dave"]
-=end
+
